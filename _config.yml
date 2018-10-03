@@ -15,7 +15,6 @@ author:  # change following line to your infomation.
   first_name: Cosmin  # Be used at in dex page about me section.
   last_name: Creanga  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: cosmincreanga  # Leave blank if you don't have now
   linkedin_id: cosmin-creanga-12586230/ # Leave blank if you don't have now
   facebook_username: creangacosmin  # Leave blank if you don't have now
   twitter_username: CosminCreanga  # Leave blank if you don't have now
