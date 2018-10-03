@@ -1,29 +1,84 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: UniCredit
+    i18n: UniCredit
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail:
+    i18n: unicredit_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Oct. 2017
+    i18n: unicredit_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: General Manager Business Management
+    i18n: unicredit_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: UniCredit
+    i18n: UniCredit
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Responsible for Monitoring and Execution of COO agenda in:
+- Management of the Strategic projects related with Cards, Payments and Trade Finance Area aligning the developments with the UniCredit IT Agenda. Proven track record in managing more than €90mln yearly business development investments in Italy, Germany and Austria, ranging from budget planning and project approving, Work in Progress monitoring to presentation updates to Top Management Steering Committee;
+- Main contact point in the Procurement relationship with External Vendors for Order Management
+- Key referent for external auditors regarding the Cards Division Outsourcing project to a relevant Italian Payment Company
+I was directly responsible for the management of the ICT Cost Controlling of the Transactional Products Business Division with a total of €320 million of TCO with focus on Internal and External workforce capacity consumption and Other Administrative Expenses. I supported the implementation of two strategic project regarding External Vendor Management for Transactional Products area obtaining more than €35mln cash-out savings in 3 years through Volume aggregation on specific assets, Tender management and Function Point implementation.
+    i18n: unicredit_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Jan. 2015
+    i18n: unicredit_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: VP Head of Department Production Planning and Monitoring
+    i18n: unicredit_job
+  icon: fa-plus-square
+
+- name:
+    detail: UniCredit
+    i18n: UniCredit
+  desc:
+    detail: In particular, I was direct responsible for:
+• the annual planning of internal production capacity and supporting the budgeting process by providing the forecast of HR resources in Italy, Germany, Austria, Romania and Czech Republic;
+• IT Portfolio management for Cards, Payments and Trade Finance Business Lines and alignment with the Strategic projects run at Group level (by UniCredit 11 different LEs or external 3rd Party Customer projects) and its related monitoring on Cost, Quality and Scope; For this purpose I prepared the monthly meetings involving all relevant stakeholders (e.g. Security, HR, Compliance) in related with Layer 2 IT Board Agenda in which all relevant IT Projects were presented and discussed for approval, offering all necessary reports and measure of agreed KPIs in order to match the capacity consumption Targets;
+• monitoring the related operations, such as: production volumes and capacities (plan-forecast-actual); production performance and efficiency (factory KPI);
+• recommending factory optimization opportunities based on my experience on Lean Six Sigma methodology, providing consulting to competence center’s and implementing systems/solutions to meet operational targets and to monitor the efficient resources allocation within the factory;
+• interfacing the UBIS corporate functions (e.g. Planning, Finance & Administration, Enterprise Performance Management, Legal and Compliance) regarding Businee Line planning and monitoring matters.
+    i18n: unicredit_desc
+  date:
+    detail: Sep. 2011
+    i18n: unicredit_date
+  job:
+    detail: Production Planning and Monitoring Specialist
+    i18n: unicredit_job
+  icon: fa-plus-square
+
+- name:
+    detail: UniCredit
+    i18n: UniCredit
+  desc:
+    detail: As Responsible of Internal Community Portal I successfully increased the participation and engagement of colleagues (+25% of active members reaching approx. 1.300 colleagues in Italy, Germany, Austria, Czech Republic and Romania) in order to facilitate Best Practice Sharing and collaboration. I have performed analysis of market trends and scouting of new banking products, with special focus on payments (e.g. Host Card Emulation and evolution of NFC payments) and digital banking strategies.
+I have coordinated the organization of two days Workshop at UniCredit Management building in Torino involving approx 100 colleagues in order to support the Top Management in defining the strategy and relevant projects for Card Payments.
+I have managed the database archiving (Forrester; Gartner) and sending weekly newsletters to all Card Payment Solutions Community members
+I have collaborated on different innovation initiatives concerning mobile wallets, advanced card functionalities and digital identity solutions
+    i18n: unicredit_desc
+  date:
+    detail: Jan. 2011
+    i18n: unicredit_date
+  job:
+    detail: Social Media and Cards Community owner
+    i18n: unicredit_job
+  icon: fa-plus-square
+
+- name:
+    detail: UniCredit
+    i18n: UniCredit
+  desc:
+    detail: Management of Back Office activities related with payment cards (credit, debit, pre-paid cards) starting from new card requests to installments and dispute management;
+I managed two different projects to improve the performance and efficiency of internal banking processes using Process Re-engineering and Lean Six Sigma methodology achieving certified results on Cost optimization (€ 120k) and reduced Lead Time. This allowed me to obtain the Green Belt certification in LSS at Six Sigma Academy from USA with dedicated training in Verona, Prague and Budapest.
+    i18n: unicredit_desc
+  date:
+    detail: Sep. 2007
+    i18n: unicredit_date
+  job:
+    detail:  Title Process Analyst
+    i18n: unicredit_job
   icon: fa-plus-square

@@ -11,14 +11,14 @@ img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
+  name: Cosmin Creanga  # Be used at blog posts' author.
+  first_name: Cosmin  # Be used at in dex page about me section.
+  last_name: Creanga  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: cosmincreanga  # Leave blank if you don't have now
-  linkedin_id: cosmincreanga # Leave blank if you don't have now
-  facebook_username: cosmincreanga  # Leave blank if you don't have now
-  twitter_username: cosmincreanga  # Leave blank if you don't have now
+  linkedin_id: cosmin-creanga-12586230/ # Leave blank if you don't have now
+  facebook_username: creangacosmin  # Leave blank if you don't have now
+  twitter_username: CosminCreanga  # Leave blank if you don't have now
   email: COSMINVASILE.CREANGA3@unicredit.eu  # Leave blank if you don't have now
   cv: http://cv.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: Production Planning manager with 6+ years of capacity and budget allocation experience within UniCredit. Master at MIP & CEFRIEL. Experienced in project planning and digital products. Making things happen.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
